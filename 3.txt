@@ -1,6 +1,10 @@
 hiii
 this 
 is
+<<<<<<< HEAD
 bengaluerur
 mfghdky tpkyt
 kwrk
+=======
+bengaluerur
+>>>>>>> 9a14eac (intital commmit)
