@@ -2,9 +2,13 @@ hiii
 this 
 is
 <<<<<<< HEAD
+<<<<<<< HEAD
 bengaluerur
 mfghdky tpkyt
 kwrk
 =======
 bengaluerur
 >>>>>>> 9a14eac (intital commmit)
+=======
+bengaluerur
+>>>>>>> 7f3be733fa21269322f79eb7ec57ec7cb81a4d8f
